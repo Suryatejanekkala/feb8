@@ -1,0 +1,5 @@
+a=int(input('enter the numerous)) 
+if (a>0):
+   Print('positive number:')
+else:
+   Print('negative number:') 
